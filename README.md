@@ -1,16 +1,12 @@
-### Hi there 👋
+👋 Hello, I'm Rena Shah.
+<br>
+🚀 Computer Science Engineering Student @ Dwarkadas Jivanlal Sanghvi College of Engineering, Mumbai <br>
+💻 Aspiring Software Engineer | Backend Developer <br>
+🎨 Passionate about User-Centered Design <br>
+🌟 Open Source Enthusiast | Code for a Better World <br>
+📚 Lifelong Learner | Always Exploring New Technologies <br>
+🌐 Connecting the dots between code and creativity <br>
+📌 Mumbai, India <br>
 
-<!--
-**therenashah/therenashah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Let's connect: <br>
+📧 Email: therenashah@gmail.com <br>
