@@ -5,8 +5,8 @@
 
 *Building production-grade agentic systems at the intersection of reliability and scale*
 
-[![LinkedIn](https://linkedin.com/in/therenashah)
-[![Email](mailto:renashah03@gmail.com)
+[![LinkedIn](https://linkedin.com/in/therenashah)]
+[![Email](mailto:renashah03@gmail.com)]
 
 </div>
 
